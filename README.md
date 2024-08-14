@@ -21,10 +21,12 @@ To get started with the Widget Dashboard project, follow these steps:
 
 2. **Install dependencies:**
 
+    ```
     npm install
 
 3. **Start the development server:**
 
+    ```
     npm run dev
 
 4. **Open your web browser and navigate to:**
