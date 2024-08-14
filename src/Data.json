@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "User Dashboard 1",
+      "widgets": []
+    },
+    {
+      "id": 2,
+      "name": "User Dashboard 2",
+      "widgets": []
+    },
+    {
+      "id": 3,
+      "name": "User Dashboard 3",
+      "widgets": []
+    }
+  ]
+}
