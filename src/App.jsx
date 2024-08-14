@@ -1,11 +1,11 @@
 import Navbar from "./Navbar"
-// import HomePage from "./Widgets"
+import Widgets from "./Widgets.jsx"
 
 const App = () => {
   return (
     <div>
       <Navbar/>
-      {/* <HomePage/> */}
+      <Widgets/>
     </div>
   )
 }
