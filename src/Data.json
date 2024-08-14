@@ -2,17 +2,17 @@
   "categories": [
     {
       "id": 1,
-      "name": "User Dashboard 1",
+      "name": "category 1",
       "widgets": []
     },
     {
       "id": 2,
-      "name": "User Dashboard 2",
+      "name": "category 2",
       "widgets": []
     },
     {
       "id": 3,
-      "name": "User Dashboard 3",
+      "name": "category 3",
       "widgets": []
     }
   ]
