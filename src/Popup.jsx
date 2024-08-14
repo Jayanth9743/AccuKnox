@@ -10,17 +10,17 @@ const Popup = ({
   handleClosePopup}) => {
     
   return (
-    <div className="fixed inset-0 flex flex-col items-center justify-around w-1/3 h-64 m-auto bg-red-100 rounded-md ">
+    <div className="fixed inset-0 flex flex-col items-center justify-around w-1/3 h-64 m-auto border border-solid border-black bg-[#EEEEEE] rounded-md ">
        <div className="flex flex-col items-center justify-center w-full gap-1">
             <p>widget name</p>
-            <input type="text" className="w-2/5 p-1 rounded"
+            <input type="text" className="w-2/5 p-1 border border-black border-solid rounded"
             placeholder="enter name"
             value={widgetName}
             onChange={(e)=>setWidgetName(e.target.value)} />
        </div>
        <div className="flex flex-col items-center justify-center w-full gap-1">
             <p>widget description</p>
-            <input type="text" className="w-2/5 p-1 rounded"
+            <input type="text" className="w-2/5 p-1 border border-black border-solid rounded"
             placeholder="enter description"
             value={widgetDescription}
             onChange={(e)=>setWidgetDescription(e.target.value)} />
